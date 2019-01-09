@@ -1,0 +1,11 @@
+C:\Users\ahmad\codefellows\401\Data-Structures-And-Algorithms\CodeChallenge2\CodeChallenge2\bin\Debug\netcoreapp2.1\CodeChallenge2.deps.json
+C:\Users\ahmad\codefellows\401\Data-Structures-And-Algorithms\CodeChallenge2\CodeChallenge2\bin\Debug\netcoreapp2.1\CodeChallenge2.runtimeconfig.json
+C:\Users\ahmad\codefellows\401\Data-Structures-And-Algorithms\CodeChallenge2\CodeChallenge2\bin\Debug\netcoreapp2.1\CodeChallenge2.runtimeconfig.dev.json
+C:\Users\ahmad\codefellows\401\Data-Structures-And-Algorithms\CodeChallenge2\CodeChallenge2\bin\Debug\netcoreapp2.1\CodeChallenge2.dll
+C:\Users\ahmad\codefellows\401\Data-Structures-And-Algorithms\CodeChallenge2\CodeChallenge2\bin\Debug\netcoreapp2.1\CodeChallenge2.pdb
+C:\Users\ahmad\codefellows\401\Data-Structures-And-Algorithms\CodeChallenge2\CodeChallenge2\obj\Debug\netcoreapp2.1\CodeChallenge2.csprojAssemblyReference.cache
+C:\Users\ahmad\codefellows\401\Data-Structures-And-Algorithms\CodeChallenge2\CodeChallenge2\obj\Debug\netcoreapp2.1\CodeChallenge2.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\codefellows\401\Data-Structures-And-Algorithms\CodeChallenge2\CodeChallenge2\obj\Debug\netcoreapp2.1\CodeChallenge2.AssemblyInfoInputs.cache
+C:\Users\ahmad\codefellows\401\Data-Structures-And-Algorithms\CodeChallenge2\CodeChallenge2\obj\Debug\netcoreapp2.1\CodeChallenge2.AssemblyInfo.cs
+C:\Users\ahmad\codefellows\401\Data-Structures-And-Algorithms\CodeChallenge2\CodeChallenge2\obj\Debug\netcoreapp2.1\CodeChallenge2.dll
+C:\Users\ahmad\codefellows\401\Data-Structures-And-Algorithms\CodeChallenge2\CodeChallenge2\obj\Debug\netcoreapp2.1\CodeChallenge2.pdb
