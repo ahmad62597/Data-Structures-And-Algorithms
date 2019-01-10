@@ -17,4 +17,5 @@ to give different solutions for each possible case.
 
 ##Solution
 
-![array_shift_pic](../assets/array_shift.jpg)
+
+![](assets/array_shift.jpg)
