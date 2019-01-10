@@ -23,3 +23,4 @@ Time efficiency - Big O will be O(log2(N)). Characteristic of a binary search du
 
 Space efficiency - Big O with be O(1) as no new array of variable size will be instantiated to process the input
 
+![BinarySearch](../../assets/BinarySearch.jpg)
