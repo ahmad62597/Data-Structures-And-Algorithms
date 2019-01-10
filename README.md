@@ -4,4 +4,3 @@
 
 
 #Whiteboard
-![](assets/array_shift.jpg)
