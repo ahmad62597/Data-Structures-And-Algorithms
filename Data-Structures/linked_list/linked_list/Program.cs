@@ -13,6 +13,9 @@ namespace LinkedList
             Node newNode = new Node(5);
             testLL.AddBefore(newNode, 21);
 
+            testLL.Print();
+            Console.ReadKey();
+            
             Console.WriteLine($"{testLL.Head.Value}");
         }
     }
