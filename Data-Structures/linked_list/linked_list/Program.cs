@@ -14,9 +14,16 @@ namespace LinkedList
             testLL.AddBefore(newNode, 21);
 
             testLL.Print();
-            Console.ReadKey();
             
+
+         
+
+            int value = testLL.KthFromEnd(1);
+            Console.WriteLine(value);
+            Console.ReadKey();
+
             Console.WriteLine($"{testLL.Head.Value}");
         }
+
     }
 }
